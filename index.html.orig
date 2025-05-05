@@ -22,7 +22,11 @@
                 <div class="description line-1"> Azure DevOps Project has been successfully setup</div>
                 <div class="description line-2"> Your HTML app is up and running on Azure</div>
                 <div class="next-steps-container">
-                    <div class="next-steps-header">Next up,branch1 user1, Branch2 User2</div>
+<<<<<<< HEAD
+                    <div class="next-steps-header">Next up, branch1 user1</div>
+=======
+                    <div class="next-steps-header">Next up, Branch2 User2</div>
+>>>>>>> branch2
                     <div class="next-steps-body">
                         <div class="step">
                             <div class="step-icon">
